@@ -17,9 +17,9 @@ Getting Started
 
 To get started, clone this repository to your local machine. Then, you can open and run the Jupyter notebook.
 
-git clone https://github.com/magkrupa/Teaching_classes.git \
-cd Teaching_classes \
-jupyter notebook Prot_1_students_handout.ipynb 
+    git clone https://github.com/magkrupa/Teaching_classes.git \
+    cd Teaching_classes \
+    jupyter notebook Prot_1_students_handout.ipynb 
 
 
 ## Contributing
